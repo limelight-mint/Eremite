@@ -1,0 +1,1546 @@
+{
+  "english": [
+    {
+      "key": "currency.mora",
+      "text": "Mora"
+    },
+    {
+      "key": "currency.primogems",
+      "text": "Primogems"
+    },
+    {
+      "key": "currency.pills",
+      "text": "Pills"
+    },
+    {
+      "key": "events.triggered",
+      "text": "triggered"
+    },
+    {
+      "key": "events.event_key",
+      "text": "event"
+    },
+    {
+      "key": "events.meet",
+      "text": "meets"
+    },
+    {
+      "key": "events.meet0characters",
+      "text": "0 Characters"
+    },
+    {
+      "key": "events.collected",
+      "text": "and collected"
+    },
+    {
+      "key": "events.trigger_event_timer",
+      "text": "You can trigger event in"
+    },
+    {
+      "key": "events.already_triggered",
+      "text": "You already triggered this event"
+    },
+    {
+      "key": "adventures.no_adventures_found",
+      "text": "We dont have places to travel, configure places in adventures.json"
+    },
+    {
+      "key": "adventures.start_adventure",
+      "text": "goes on an adventure.."
+    },
+    {
+      "key": "adventures.description",
+      "text": "'Every journey has its final day, dont rush', choose where you want to go next."
+    },
+    {
+      "key": "profile.pull_button",
+      "text": "Pull Character"
+    },
+    {
+      "key": "profile.account_stats_button",
+      "text": "Account Stats"
+    },
+    {
+      "key": "profile.user_profile",
+      "text": "profile"
+    },
+    {
+      "key": "profile.main_character",
+      "text": "Main Character:"
+    },
+    {
+      "key": "profile.character_buff",
+      "text": "Character Buff:"
+    },
+    {
+      "key": "profile.characters_obtained",
+      "text": "Characters Obtained:"
+    },
+    {
+      "key": "profile.current_item",
+      "text": "Equipped Item:"
+    },
+    {
+      "key": "pull.set_new_char_as_main",
+      "text": "Set this character as main"
+    },
+    {
+      "key": "pull.overview_new_char_info",
+      "text": "Overview this character info"
+    },
+    {
+      "key": "pull.wish",
+      "text": "wished for a character.."
+    },
+    {
+      "key": "pull.cashback",
+      "text": "Your cashback for duplicated characters:"
+    },
+    {
+      "key": "not_enough_currency",
+      "text": "Not enough currency! Try any activities like `!adventure`, `!daily`, etc. to get currency. (`!help` to see all commands)"
+    },
+    {
+      "key": "sacrifice.character_not_found",
+      "text": "I didnt find this character in your character list, try calling it by name?"
+    },
+    {
+      "key": "sacrifice.error",
+      "text": "Cant sacrifice this character or sacrifice price is zero"
+    },
+    {
+      "key": "sacrifice.sacrificed",
+      "text": "sacrificed"
+    },
+    {
+      "key": "setcharacter.not_found",
+      "text": "I didnt find this character in your character list, try calling it by name?"
+    },
+    {
+      "key": "setcharacter.already_equipped",
+      "text": "You already equipped this character, try `!akasha` or `!profile` to see more info"
+    },
+    {
+      "key": "setcharacter.char_can_be_sacrificed",
+      "text": "Can be sacrificed `!sacrifice`"
+    },
+    {
+      "key": "setcharacter.no_main_character",
+      "text": "None, use `!set [name]` or `!pull`"
+    },
+    {
+      "key": "shop.welcome",
+      "text": "Dori's ~~jaw droppin prices~~ brilliant shop!"
+    },
+    {
+      "key": "shop.description",
+      "text": "For explosive discounts, go to http://mentallystable4sure.dev and visit the 'Alcazarzaray Palace' which is exclusively avaliable in MS Launcher."
+    },
+    {
+      "key": "shop.input_placeholder",
+      "text": "Dori will pick your lot from market"
+    },
+    {
+      "key": "shop.lot_unavaliable",
+      "text": "Lot currently unavaliable... Sorry."
+    },
+    {
+      "key": "shop.lot_uid_needed",
+      "text": "Kindly link your genshin UID so we know where to send Welkin Moon (Example of linking: `!genshin 700000000` instead of number put your UID)"
+    },
+    {
+      "key": "shop.lot_bought",
+      "text": "Successfully bought item"
+    },
+    {
+      "key": "shop.lot.100primogems",
+      "text": "Thats a great deal, trust Dori!"
+    },
+    {
+      "key": "shop.lot.crimson_witch_hat",
+      "text": "What else pyro witch needs?"
+    },
+    {
+      "key": "shop.lot.welkin_moon",
+      "text": "For larger sale visit Dori's palace in MS Launcher"
+    },
+    {
+      "key": "shop.lot.100pills",
+      "text": "I love mora! And Mora loves me! Hehe~"
+    },
+    {
+      "key": "shop.welkin_moon",
+      "text": "Welkin Moon"
+    },
+    {
+      "key": "shop.crimson_witch_hat",
+      "text": "Crimson Witch Hat"
+    },
+    {
+      "key": "stats.top.by_pulls",
+      "text": "TOP Users by pulls"
+    },
+    {
+      "key": "stats.top.by_primos",
+      "text": "TOP Users by primogems"
+    },
+    {
+      "key": "stats.top.by_pills",
+      "text": "TOP Users by pills"
+    },
+    {
+      "key": "stats.times_pulled",
+      "text": "Times pulled:"
+    },
+    {
+      "key": "stats.times_traveled",
+      "text": "Times traveled:"
+    },
+    {
+      "key": "stats.dailies_completed",
+      "text": "Dailies completed:"
+    },
+    {
+      "key": "stats.total_primogems",
+      "text": "Total primogems earned/spent:"
+    },
+    {
+      "key": "stats.total_pills",
+      "text": "Total pills earned/spent:"
+    },
+    {
+      "key": "localization.lang_changed",
+      "text": "Language succesfullly changed."
+    },
+    {
+      "key": "localization.lang_not_found",
+      "text": "Language not found or you already set this language, try calling abbreviation like `en` `fr` `ua`"
+    },
+    {
+      "key": "character.1.name",
+      "text": "Electro Mage"
+    },
+    {
+      "key": "character.2.name",
+      "text": "Gorou"
+    },
+    {
+      "key": "character.3.name",
+      "text": "Bosacius"
+    },
+    {
+      "key": "character.4.name",
+      "text": "Jeht"
+    },
+    {
+      "key": "character.5.name",
+      "text": "Menogias"
+    },
+    {
+      "key": "character.6.name",
+      "text": "Indarias"
+    },
+    {
+      "key": "character.7.name",
+      "text": "Candace"
+    },
+    {
+      "key": "character.8.name",
+      "text": "Xiao"
+    },
+    {
+      "key": "character.9.name",
+      "text": "Baizhu"
+    },
+    {
+      "key": "character.10.name",
+      "text": "Itto"
+    },
+    {
+      "key": "character.11.name",
+      "text": "Unknown God"
+    },
+    {
+      "key": "character.12.name",
+      "text": "Bonanus"
+    },
+    {
+      "key": "character.13.name",
+      "text": "Signora"
+    },
+    {
+      "key": "character.14.name",
+      "text": "Furina"
+    },
+    {
+      "key": "character.15.name",
+      "text": "Hu Tao"
+    },
+    {
+      "key": "character.16.name",
+      "text": "Layla"
+    },
+    {
+      "key": "character.17.name",
+      "text": "Yanfei"
+    },
+    {
+      "key": "character.18.name",
+      "text": "Zhongli"
+    },
+    {
+      "key": "character.19.name",
+      "text": "Charlotte"
+    },
+    {
+      "key": "character.20.name",
+      "text": "Klee"
+    },
+    {
+      "key": "character.21.name",
+      "text": "Ganyu"
+    },
+    {
+      "key": "character.1.perk_info",
+      "text": "Getting double the amount (x2) Mora from all resources (!adventure, !daily, !pull, etc.)"
+    },
+    {
+      "key": "character.2.perk_info",
+      "text": "Gorou will provide assistance! The more characters you have the more time from !daily expedition will reset. Each character in party provides 30 minutes (Including Gorou, but cap is 75%). Whos a good boy?"
+    },
+    {
+      "key": "character.3.perk_info",
+      "text": "[Fate] - Getting double the amount (x2) Mora from all resources (!adventure, !daily, !pull, etc.) but also x2 lower primogems."
+    },
+    {
+      "key": "character.4.perk_info",
+      "text": "Whenever Jeht goes on an !adventure she always come back with two times more stuff then other eremites. (Applies to any currency)"
+    },
+    {
+      "key": "character.5.perk_info",
+      "text": "[Fate and Balance] Nothing is permanent"
+    },
+    {
+      "key": "character.6.perk_info",
+      "text": "[Clarity] - Lowers !daily cooldown by 12 hours"
+    },
+    {
+      "key": "character.7.perk_info",
+      "text": "Candace is an experienced warrior and protector of her own village. When you go on an !adventure your cooldown is gonna go lower by 10 minutes per character in your inventory (limit is 75%))"
+    },
+    {
+      "key": "character.8.perk_info",
+      "text": "[Sacrifice] - your Mora will be converted with 1/2 ratio into primogems from !adventure"
+    },
+    {
+      "key": "character.9.perk_info",
+      "text": "Lowers !adventure cooldown by 1 hour"
+    },
+    {
+      "key": "character.10.perk_info",
+      "text": "[The show begins!] Doubles (x2) the primogems but half a mora you receive goes to Kuki Shinobu in order to keep the clan alive"
+    },
+    {
+      "key": "character.11.perk_info",
+      "text": "[Your journey ends here!] gives you double the pills from !daily"
+    },
+    {
+      "key": "character.12.perk_info",
+      "text": "[Sacrifice with Kindness] - your Mora will be converted with 1/1 ratio into primogems from ALL resources (!adventure, !daily, !pull, etc.). But this will not delay poor yakshas fate.."
+    },
+    {
+      "key": "character.13.perk_info",
+      "text": "[Crimson Witch] - Converts primogems into pills 💊 with 1/2 ratio, but burns all your mora upon receiving"
+    },
+    {
+      "key": "character.14.perk_info",
+      "text": "When Furina set as a main character each time you sacrifice a character you receive a melusines help by a 160 primogems per melusines helped. You can help melusines if you see them on !adventure or while !fishblasting with Klee [10k MAX]"
+    },
+    {
+      "key": "character.15.perk_info",
+      "text": "Hu Tao travels to an underworld whenever you sacrifice any character providing you with new random character she brought from underworld or 3600 primogems with 50%/50% chance"
+    },
+    {
+      "key": "character.16.perk_info",
+      "text": "Layla fell asleep but her lunatic side will give you 10 💊 per each character in the inventory whenever someone leaves her teams and being sacrificed"
+    },
+    {
+      "key": "character.17.perk_info",
+      "text": "Yanfei signed a contract with you. She can be sacrificed but will refresh your Blessing of the Welkin Moon cooldown."
+    },
+    {
+      "key": "character.18.perk_info",
+      "text": "[Passive] Zhongli is eating 1000 Mora each time you sacrifice someone [No matter who is set as main character]"
+    },
+    {
+      "key": "character.19.perk_info",
+      "text": "Charlotte is capturing rare shots of melusines with her camera making 3 times more rewards from adventures where melusines were found"
+    },
+    {
+      "key": "character.20.perk_info",
+      "text": "Klee is master at fishing! Each time Klee goes fishing she is finding some friends!"
+    },
+    {
+      "key": "character.21.perk_info",
+      "text": "[Frost Bolt] During fishblasting has 50% chance to froze an entire lake and receive rare rewards"
+    }
+  ],
+  "french": [
+    {
+      "key": "currency.mora",
+      "text": "Moras"
+    },
+    {
+      "key": "currency.primogems",
+      "text": "Primo-gemmes"
+    },
+    {
+      "key": "currency.pills",
+      "text": "Pilules"
+    },
+    {
+      "key": "events.triggered",
+      "text": "a déclenché l'évènement"
+    },
+    {
+      "key": "events.event_key",
+      "text": ":O"
+    },
+    {
+      "key": "events.meet",
+      "text": "recontre"
+    },
+    {
+      "key": "events.meet0characters",
+      "text": "0 personnages"
+    },
+    {
+      "key": "events.collected",
+      "text": "et a collecté"
+    },
+    {
+      "key": "events.trigger_event_timer",
+      "text": "Cet évènement peut être déclenché de nouveau dans"
+    },
+    {
+      "key": "events.already_triggered",
+      "text": "Cet évènement a déjà été déclenché"
+    },
+    {
+      "key": "adventures.no_adventures_found",
+      "text": "Il n'y a aucun lieu à visiter, configure les lieux dans adventures.json"
+    },
+    {
+      "key": "adventures.start_adventure",
+      "text": "part à l'aventure.."
+    },
+    {
+      "key": "adventures.description",
+      "text": "'Chaque périple à une fin, ne te précipite pas', où aller ensuite ?"
+    },
+    {
+      "key": "profile.pull_button",
+      "text": "Faire des voeux"
+    },
+    {
+      "key": "profile.account_stats_button",
+      "text": "Statistiques du compte"
+    },
+    {
+      "key": "profile.user_profile",
+      "text": "et son profil"
+    },
+    {
+      "key": "profile.main_character",
+      "text": "Personnage principal:"
+    },
+    {
+      "key": "profile.character_buff",
+      "text": "Bonus de personnage:"
+    },
+    {
+      "key": "profile.characters_obtained",
+      "text": "Personnages obtenus:"
+    },
+    {
+      "key": "profile.current_item",
+      "text": "Objet équipé:"
+    },
+    {
+      "key": "pull.set_new_char_as_main",
+      "text": "Définir ce personnage comme principal"
+    },
+    {
+      "key": "pull.overview_new_char_info",
+      "text": "Voir les informations du personnage"
+    },
+    {
+      "key": "pull.wish",
+      "text": "a fait un vœu.."
+    },
+    {
+      "key": "pull.cashback",
+      "text": "Voici ton cashback pour tes duplicats:"
+    },
+    {
+      "key": "not_enough_currency",
+      "text": "Pas assez d'argent! Il faut faire des activités comme `!adventure`, `!daily`, etc. pour gagner de l'argent. (`!help` pour voir toutes les commandes)"
+    },
+    {
+      "key": "sacrifice.character_not_found",
+      "text": "Je n'ai pas trouvé ce personnage dans la liste, peut-être en utilisant son nom?"
+    },
+    {
+      "key": "sacrifice.error",
+      "text": "Impossible de sacrifier ce personnage ou sa valeur de sacrifice est de 0"
+    },
+    {
+      "key": "sacrifice.sacrificed",
+      "text": "a sacrifié"
+    },
+    {
+      "key": "setcharacter.not_found",
+      "text": "Je n'ai pas trouvé ce personnage dans la liste, peut-être en utilisant son nom?"
+    },
+    {
+      "key": "setcharacter.already_equipped",
+      "text": "Ce personnage est déjà équipé, essayez `!akasha` ou `!profile` pour avoir plus d'informations"
+    },
+    {
+      "key": "setcharacter.char_can_be_sacrificed",
+      "text": "Peut être sacrifié `!sacrifice`"
+    },
+    {
+      "key": "setcharacter.no_main_character",
+      "text": "Aucun, utilisez `!set [nom]` ou `!pull`"
+    },
+    {
+      "key": "shop.welcome",
+      "text": "Le magasin brillant ~~avec des prix extraordinaires~~ de Dori!"
+    },
+    {
+      "key": "shop.description",
+      "text": "Pour des promotions sans précedent, allez sur https://mentallystable4sure.dev (en anglais :<) puis allez sur 'Alcazarzaray Palace' qui est uniquement disponible dans le MS Launcher."
+    },
+    {
+      "key": "shop.input_placeholder",
+      "text": "Dori ira recupérer l'article directement dans le marché."
+    },
+    {
+      "key": "shop.lot_unavaliable",
+      "text": "L'article n'est pas disponible... Malheureusement :c"
+    },
+    {
+      "key": "shop.lot_uid_needed",
+      "text": "Merci de fournir votre UID Genshin afin de pouvoir envoyer la Bénédiction de la Lune (Exemple: `!genshin 700000000` avec l'UID au lieu du nombre)"
+    },
+    {
+      "key": "shop.lot_bought",
+      "text": "Article acheté avec succès !"
+    },
+    {
+      "key": "shop.lot.100primogems",
+      "text": "C'était une bonne affaire, comme toujours avec Dori !"
+    },
+    {
+      "key": "shop.lot.crimson_witch_hat",
+      "text": "Dori n'est pas responsable des incendies causés par l'article."
+    },
+    {
+      "key": "shop.lot.welkin_moon",
+      "text": "Pour des plus gros articles, merci d'aller dans le Palace de Dori (dans le MS Launcher)"
+    },
+    {
+      "key": "shop.lot.100pills",
+      "text": "J'adore les Moras ! Et les Moras m'adorent aussi ! Merveilleux~~"
+    },
+    {
+      "key": "shop.welkin_moon",
+      "text": "Bénédiction de la Lune"
+    },
+    {
+      "key": "shop.crimson_witch_hat",
+      "text": "Chapeau de la Sorcière des flammes ardentes"
+    },
+    {
+      "key": "stats.top.by_pulls",
+      "text": "Classement des utilisateurs par vœux"
+    },
+    {
+      "key": "stats.top.by_primos",
+      "text": "Classement des utilisateurs par primo-gemmes"
+    },
+    {
+      "key": "stats.top.by_pills",
+      "text": "Classement des utilisateurs par pilules"
+    },
+    {
+      "key": "stats.times_pulled",
+      "text": "Nombre de vœux:"
+    },
+    {
+      "key": "stats.times_traveled",
+      "text": "Nombre de voyages:"
+    },
+    {
+      "key": "stats.dailies_completed",
+      "text": "Nombre de missions quotidiennes terminées:"
+    },
+    {
+      "key": "stats.total_primogems",
+      "text": "Total des gains/dépenses de primo-gemmes :"
+    },
+    {
+      "key": "stats.total_pills",
+      "text": "Total des gains/dépenses de pilules :"
+    },
+    {
+      "key": "localization.lang_changed",
+      "text": "Changement de langue terminé :D"
+    },
+    {
+      "key": "localization.lang_not_found",
+      "text": "Impossible de trouver le language, ou il est déjà utilisé, il est aussi possible d'utiliser des abréviations comme `en` `fr` `ua`"
+    },
+    {
+      "key": "character.1.name",
+      "text": "Mage Electro"
+    },
+    {
+      "key": "character.2.name",
+      "text": "Gorou"
+    },
+    {
+      "key": "character.3.name",
+      "text": "Bosacius"
+    },
+    {
+      "key": "character.4.name",
+      "text": "Jeht"
+    },
+    {
+      "key": "character.5.name",
+      "text": "Menogias"
+    },
+    {
+      "key": "character.6.name",
+      "text": "Indarias"
+    },
+    {
+      "key": "character.7.name",
+      "text": "Candace"
+    },
+    {
+      "key": "character.8.name",
+      "text": "Xiao"
+    },
+    {
+      "key": "character.9.name",
+      "text": "Baizhu"
+    },
+    {
+      "key": "character.10.name",
+      "text": "Itto"
+    },
+    {
+      "key": "character.11.name",
+      "text": "Unknown God"
+    },
+    {
+      "key": "character.12.name",
+      "text": "Bonanus"
+    },
+    {
+      "key": "character.13.name",
+      "text": "La Signora"
+    },
+    {
+      "key": "character.14.name",
+      "text": "Furina"
+    },
+    {
+      "key": "character.15.name",
+      "text": "Hu Tao"
+    },
+    {
+      "key": "character.16.name",
+      "text": "Layla"
+    },
+    {
+      "key": "character.17.name",
+      "text": "Yanfei"
+    },
+    {
+      "key": "character.18.name",
+      "text": "Zhongli"
+    },
+    {
+      "key": "character.19.name",
+      "text": "Charlotte"
+    },
+    {
+      "key": "character.20.name",
+      "text": "Klee"
+    },
+    {
+      "key": "character.21.name",
+      "text": "Ganyu"
+    },
+    {
+      "key": "character.1.perk_info",
+      "text": "Double les gains de Moras. Fonctionne avec toutes les commandes (!adventure, !daily, !pull, etc.)"
+    },
+    {
+      "key": "character.2.perk_info",
+      "text": "Gorou veut aider ! La durée entre chaque !daily diminue proportionnellement au nombre de personnages possédés par tranches de 30 minutes (Gorou inclus, mais limité à 75% du temps de base). Gentil gorou~"
+    },
+    {
+      "key": "character.3.perk_info",
+      "text": "[Destinée] - Double les gains de Moras. Fonctionne avec toutes les commandes (!adventure, !daily, !pull, etc.) mais diminue la quantité de primo-gemmes par 2 également."
+    },
+    {
+      "key": "character.4.perk_info",
+      "text": "Chaque fois que Jeht pars dans une !adventure, elle reviens toujours avec le double des ressources des autres érémites. (S'applique à toutes les monnaies)"
+    },
+    {
+      "key": "character.5.perk_info",
+      "text": "[Équilibre] Rien n'est permanent"
+    },
+    {
+      "key": "character.6.perk_info",
+      "text": "[Clarté] - Diminue de 12 heures la fréquence d'utilisation de !daily"
+    },
+    {
+      "key": "character.7.perk_info",
+      "text": "Candance est une guerrière talentueuse qui protège son propre village. Lorsqu'elle pars dans une !adventure le temps avant de pouvoir refaire la commande diminue de 10 minutes par personnage possédé (limité à 75% du temps de base)"
+    },
+    {
+      "key": "character.8.perk_info",
+      "text": "[Sacrifice] - Pour chaque !adventure, 50% des Moras sont convertis en primo-gemmes"
+    },
+    {
+      "key": "character.9.perk_info",
+      "text": "Diminue le temps entre chaque !adventure de 1 heure"
+    },
+    {
+      "key": "character.10.perk_info",
+      "text": "[Auspicité] Double la quantité de primo-gemmes, mais divise par deux la quantité de Moras qui reviendra directement à Kuki pour payer les dette d'Itto"
+    },
+    {
+      "key": "character.11.perk_info",
+      "text": "[Inéluctabilité] Double la quantité de pilules pour !daily"
+    },
+    {
+      "key": "character.12.perk_info",
+      "text": "[Obligeance] - L'entièreté des Moras sont convertis en primo-gemmes depuis toutes les commandes (!adventure, !daily, !pull, etc.). Mais au prix d'entraver les affaires de Dori..."
+    },
+    {
+      "key": "character.13.perk_info",
+      "text": "[Ardence] - Transforme 50% des primo-gemmes en pilules, mais détruit tous les Moras reçus en même temps."
+    },
+    {
+      "key": "character.14.perk_info",
+      "text": "Quand Furina est sélectionnée en tant que personnage principale, à chaque fois que tu sacrifies un personnage tu reçois 160 primogemmes par Melusine aidé. Tu peux aider les Melusines si tu les vois pendant une !adventure ou pendant !fishblasting avec Klee. [10k MAX]"
+    },
+    {
+      "key": "character.15.perk_info",
+      "text": "Hu Tao voyage dans l'Au-delà à chaque fois que tu sacrifies un personnage, pour ramener soit un autre personnage, soit 3600 primogemmes (50/50)."
+    },
+    {
+      "key": "character.16.perk_info",
+      "text": "Layla s'est endormie mais son côté distrait te donnera 10 💊 pour chaque personnage dans l'inventaire à chaque fois que quelqu'un quitte son équipe et est sacrifié."
+    },
+    {
+      "key": "character.17.perk_info",
+      "text": "Yanfei a signé un contrat avec toi. Elle peut être sacrifiée mais diminue le temps d'obtention d'une Faveur de l'Astre."
+    },
+    {
+      "key": "character.18.perk_info",
+      "text": "[Passif] Zhongli consomme 1000 Moras à chaque fois que tu sacrifies quelqu'un. [Marche seulement si le personnage est mis en personnage principale]"
+    },
+    {
+      "key": "character.19.perk_info",
+      "text": "Charlotte photographie des Melusines avec sa camera, multipliant par 3 les récompenses d'aventure où se trouve des Melusines."
+    },
+    {
+      "key": "character.20.perk_info",
+      "text": "Klee est très douée à la pêche! À chaque fois qu'elle va pêcher, elle se fait des amis!"
+    },
+    {
+      "key": "character.21.perk_info",
+      "text": "[Grêle] Pendant !fishblasting, il y a 50% de chance de geler le lac entier et de recevoir des récompenses rares."
+    }
+  ],
+  "ukrainian": [
+    {
+      "key": "currency.mora",
+      "text": "Мора"
+    },
+    {
+      "key": "currency.primogems",
+      "text": "Камінці"
+    },
+    {
+      "key": "currency.pills",
+      "text": "Таблетки"
+    },
+    {
+      "key": "events.triggered",
+      "text": "виконує"
+    },
+    {
+      "key": "events.event_key",
+      "text": "подію"
+    },
+    {
+      "key": "events.meet",
+      "text": "зустрічає"
+    },
+    {
+      "key": "events.meet0characters",
+      "text": "0 персонажів"
+    },
+    {
+      "key": "events.collected",
+      "text": "та знаходить"
+    },
+    {
+      "key": "events.trigger_event_timer",
+      "text": "Знову розпочати подію можна через"
+    },
+    {
+      "key": "events.already_triggered",
+      "text": "Ти вже виконував цю дію нещодавно"
+    },
+    {
+      "key": "adventures.no_adventures_found",
+      "text": "Нема що розпочинати, відредагуй будь ласочка adventures.json"
+    },
+    {
+      "key": "adventures.start_adventure",
+      "text": "розпочинає свій тяжкий шлях.."
+    },
+    {
+      "key": "adventures.description",
+      "text": "'Кожна подорож має свій кінець, не поспішай, друже', дбайливо обирай де почнеш подорож."
+    },
+    {
+      "key": "profile.pull_button",
+      "text": "Загадати бажання"
+    },
+    {
+      "key": "profile.account_stats_button",
+      "text": "Статистика аккаунту"
+    },
+    {
+      "key": "profile.user_profile",
+      "text": "відкриває сторінку"
+    },
+    {
+      "key": "profile.main_character",
+      "text": "Головний персонаж:"
+    },
+    {
+      "key": "profile.character_buff",
+      "text": "Вміння персонажа:"
+    },
+    {
+      "key": "profile.characters_obtained",
+      "text": "Мої персонажі:"
+    },
+    {
+      "key": "profile.current_item",
+      "text": "Обраний предмет:"
+    },
+    {
+      "key": "pull.set_new_char_as_main",
+      "text": "Зробити головним персонажем"
+    },
+    {
+      "key": "pull.overview_new_char_info",
+      "text": "Оглянути персонажа"
+    },
+    {
+      "key": "pull.wish",
+      "text": "загадує бажання.."
+    },
+    {
+      "key": "pull.cashback",
+      "text": "Твій кешбек за дублікати:"
+    },
+    {
+      "key": "not_enough_currency",
+      "text": "Не достає валюти! Спробуй активності, наприклад `!adventure`, `!daily`. (`!help` щоб побачити усі команди)"
+    },
+    {
+      "key": "sacrifice.character_not_found",
+      "text": "Не вдалось знайти цього персонажа у твоєму списку персонажів, спробуй інше ім'я?"
+    },
+    {
+      "key": "sacrifice.error",
+      "text": "Неможливо пожертвувати цим персонажем або його ціна дорівнює 0"
+    },
+    {
+      "key": "sacrifice.sacrificed",
+      "text": "жертвує"
+    },
+    {
+      "key": "setcharacter.not_found",
+      "text": "Не вдалось знайти цього персонажа у твоєму списку персонажів, спробуй інше ім'я?"
+    },
+    {
+      "key": "setcharacter.already_equipped",
+      "text": "Цей персонаж вже головний, подивись у `!akasha` або `!profile`"
+    },
+    {
+      "key": "setcharacter.char_can_be_sacrificed",
+      "text": "Можна пожертвувати через `!sacrifice`"
+    },
+    {
+      "key": "setcharacter.no_main_character",
+      "text": "Немає, спробуй `!set [ім'я персонажа]` або `!pull`"
+    },
+    {
+      "key": "shop.welcome",
+      "text": "Дорі має ~~величезну націнку~~ неймовірні знижки!"
+    },
+    {
+      "key": "shop.description",
+      "text": "Для ну просто вибухових знаижок завітай на http://mentallystable4sure.dev та заходь до 'Палацу Алказарзараа' який ексклюзивно доступний у ігровому лаунчері."
+    },
+    {
+      "key": "shop.input_placeholder",
+      "text": "Дорі допоможе вибрати щось гарненьке"
+    },
+    {
+      "key": "shop.lot_unavaliable",
+      "text": "Цей лот наразі недоступний... Перепрошуємо за незручності."
+    },
+    {
+      "key": "shop.lot_uid_needed",
+      "text": "Будь ласка вкажіть ваш UID з Геншин Імпакт щоб ми знали куди відправляти подарунки (Приклад що писати щоб зв'язати аккаунт: `!genshin 700000000` де цифри це Ваш UID)"
+    },
+    {
+      "key": "shop.lot_bought",
+      "text": "Оплата успішна, було приємно мати з Вами справу!"
+    },
+    {
+      "key": "shop.lot.100primogems",
+      "text": "Це дуже гарна пропозиція, повір Дорі!"
+    },
+    {
+      "key": "shop.lot.crimson_witch_hat",
+      "text": "Що ще потрібно гарячій відьмі? купальн-кх.. шляпа!"
+    },
+    {
+      "key": "shop.lot.welkin_moon",
+      "text": "Ексклюзивні знижки у палаці Дорі у лаунчері"
+    },
+    {
+      "key": "shop.lot.100pills",
+      "text": "Я люблю мору, а мора любить мене! Хехе~"
+    },
+    {
+      "key": "shop.welkin_moon",
+      "text": "Місячне благословлення"
+    },
+    {
+      "key": "shop.crimson_witch_hat",
+      "text": "Відьомська Шляпа"
+    },
+    {
+      "key": "stats.top.by_pulls",
+      "text": "Найкращі гравці по бажанням"
+    },
+    {
+      "key": "stats.top.by_primos",
+      "text": "Найкращі гравці по камінцям"
+    },
+    {
+      "key": "stats.top.by_pills",
+      "text": "Найкращі гравці по таблеткам"
+    },
+    {
+      "key": "stats.times_pulled",
+      "text": "Усього бажань загадано:"
+    },
+    {
+      "key": "stats.times_traveled",
+      "text": "Кількість пригод:"
+    },
+    {
+      "key": "stats.dailies_completed",
+      "text": "Кількість щоденних завдань:"
+    },
+    {
+      "key": "stats.total_primogems",
+      "text": "Усього камінців зароблено/витрачено:"
+    },
+    {
+      "key": "stats.total_pills",
+      "text": "Усього таблеток зароблено/витрачено:"
+    },
+    {
+      "key": "localization.lang_changed",
+      "text": "Вашу мову успішно змінено."
+    },
+    {
+      "key": "localization.lang_not_found",
+      "text": "Мову не знайдено або вона вже встановлена, спробуйте абревіацію, накшталт `en` `fr` `ua`"
+    },
+    {
+      "key": "character.1.name",
+      "text": "Громова Відьма"
+    },
+    {
+      "key": "character.2.name",
+      "text": "Горо"
+    },
+    {
+      "key": "character.3.name",
+      "text": "Босаціус"
+    },
+    {
+      "key": "character.4.name",
+      "text": "Джехт"
+    },
+    {
+      "key": "character.5.name",
+      "text": "Меногіас"
+    },
+    {
+      "key": "character.6.name",
+      "text": "Індаріас"
+    },
+    {
+      "key": "character.7.name",
+      "text": "Кендіс"
+    },
+    {
+      "key": "character.8.name",
+      "text": "Сяо"
+    },
+    {
+      "key": "character.9.name",
+      "text": "Байчжу"
+    },
+    {
+      "key": "character.10.name",
+      "text": "Ітто"
+    },
+    {
+      "key": "character.11.name",
+      "text": "Невідома Богиня"
+    },
+    {
+      "key": "character.12.name",
+      "text": "Бонанус"
+    },
+    {
+      "key": "character.13.name",
+      "text": "Сеньйора"
+    },
+    {
+      "key": "character.14.name",
+      "text": "Фуріна"
+    },
+    {
+      "key": "character.15.name",
+      "text": "Ху Тао"
+    },
+    {
+      "key": "character.16.name",
+      "text": "Лайла"
+    },
+    {
+      "key": "character.17.name",
+      "text": "Янь Фей"
+    },
+    {
+      "key": "character.18.name",
+      "text": "Чжун Лі"
+    },
+    {
+      "key": "character.19.name",
+      "text": "Шарлотта"
+    },
+    {
+      "key": "character.20.name",
+      "text": "Клі"
+    },
+    {
+      "key": "character.21.name",
+      "text": "Гань Юй"
+    },
+    {
+      "key": "character.1.perk_info",
+      "text": "Отримує удвічі більше (x2) Мори з усіх ресурсів (!adventure, !daily, !pull, etc.)"
+    },
+    {
+      "key": "character.2.perk_info",
+      "text": "Горо допоможе! Чим більше персонажів ви маєте тим менший !daily експидція матиме відкат. Кожен персонаж дає -30 хвилин (Включаючи Горо, але не більш ніж 75%). Хто тут гарний хлопчик?"
+    },
+    {
+      "key": "character.3.perk_info",
+      "text": "[Fate] - Отримує вдвічі більше (x2) Мори з усіх ресурсів (!adventure, !daily, !pull, etc.) але також x2 менше камінців."
+    },
+    {
+      "key": "character.4.perk_info",
+      "text": "Коли Джехт ходить у !adventure вона зазвичай знаходить удвічі більше аніж інше еремітки. (Стосується усієї нагороди)"
+    },
+    {
+      "key": "character.5.perk_info",
+      "text": "[Fate and Balance] Ніщо не вічно"
+    },
+    {
+      "key": "character.6.perk_info",
+      "text": "[Clarity] - Зменшує !daily відкат на 12 годин"
+    },
+    {
+      "key": "character.7.perk_info",
+      "text": "Вона завзята войовниця та заступниця свого села. Під час зборів у !adventure вона заздалегіть усе планує, тому відкат буде на 10 хвилин менший за кожного персонажа (Але не більш ніж 75%))"
+    },
+    {
+      "key": "character.8.perk_info",
+      "text": "[Sacrifice] - уся Мора конвертується 1 до 2 в камінці але лише з !adventure"
+    },
+    {
+      "key": "character.9.perk_info",
+      "text": "Зменшує відкат !adventure на 1 годину"
+    },
+    {
+      "key": "character.10.perk_info",
+      "text": "[The show begins!] Подвоює (x2) усі камінці але половина усієї Мори йде до Кукі щоб утримувати клан"
+    },
+    {
+      "key": "character.11.perk_info",
+      "text": "[Your journey ends here!] подвоює таблетки з !daily події"
+    },
+    {
+      "key": "character.12.perk_info",
+      "text": "[Sacrifice with Kindness] - Мора конвертується 1 до 1 у камінці з усих ресурсів (!adventure, !daily, !pull, etc.). Але це не відсрочить її жахливу долю.."
+    },
+    {
+      "key": "character.13.perk_info",
+      "text": "[Crimson Witch] - Конвертує камінці у таблетки 💊 1 до 2, але уся Мора згорає коли її торкається відьма"
+    },
+    {
+      "key": "character.14.perk_info",
+      "text": "Коли Фуріна обрана як основний персонаж, кожного разу при !sacrifice ви отримуєте допомгу від Мелюзін 160 Камінців за кожного. Ви можете допомогти Мелюзінам у !adventure або у !fishblasting разом з Клі. [10k MAX]"
+    },
+    {
+      "key": "character.15.perk_info",
+      "text": "Ху Тао відвідує потойбіччя кожного разу при !sacrifice та приводить нового покупця зі знижкою додаючи його, або якщо пощастить то знаходить 3600 Камінців з шансом 50%/50%"
+    },
+    {
+      "key": "character.16.perk_info",
+      "text": "Здається Лайла спить, але її лунатизм подарує вам 10 💊 кожного разу коли хтось покидає її команду та відходить у !sacrifice"
+    },
+    {
+      "key": "character.17.perk_info",
+      "text": "Янь Фей підписала з вами контракт. Вона може піти з команди завдяки !sacrifice але при цьому оновить таймер на Благословення Місяця (-30 днів)."
+    },
+    {
+      "key": "character.18.perk_info",
+      "text": "[Пассивно] Чжун Лі забирає в вас 1000 Мори кожного разу коли хтось покидає команду через !sacrifice [Навіть якщо він не встановлений головним персонажем]"
+    },
+    {
+      "key": "character.19.perk_info",
+      "text": "Шарлотта фотографує Мелюзін своєю камерою потроючи (х3) награду з !adventures де були знайдені Мелюзіни."
+    },
+    {
+      "key": "character.20.perk_info",
+      "text": "Клі дуже гарно рибачить! Кожного разу Клі йде на рибалку та знаходить нових друзів!"
+    },
+    {
+      "key": "character.21.perk_info",
+      "text": "[Морозний снаряд] Під час рибалки 50% шанс що заморозить усю воду та отримає ексклюзивні награди."
+    }
+  ],
+  "russian": [
+    {
+      "key": "currency.mora",
+      "text": "Мора"
+    },
+    {
+      "key": "currency.primogems",
+      "text": "Примогемы"
+    },
+    {
+      "key": "currency.pills",
+      "text": "Таблетки"
+    },
+    {
+      "key": "events.triggered",
+      "text": "начинает"
+    },
+    {
+      "key": "events.event_key",
+      "text": "событие"
+    },
+    {
+      "key": "events.meet",
+      "text": "встречает"
+    },
+    {
+      "key": "events.meet0characters",
+      "text": "0 персонажей"
+    },
+    {
+      "key": "events.collected",
+      "text": "и собирает"
+    },
+    {
+      "key": "events.trigger_event_timer",
+      "text": "Ты сможешь снова начать событие через"
+    },
+    {
+      "key": "events.already_triggered",
+      "text": "Ты уже использовал это событие недавно"
+    },
+    {
+      "key": "adventures.no_adventures_found",
+      "text": "Видимо ты не настроил приключения, куда ходить то? Отредактируй adventures.json"
+    },
+    {
+      "key": "adventures.start_adventure",
+      "text": "отправляется в путешествие.."
+    },
+    {
+      "key": "adventures.description",
+      "text": "'Каждое путешествие имеет свой конец, не торопись', выбери куда пойдешь дальше."
+    },
+    {
+      "key": "profile.pull_button",
+      "text": "Вытянуть персонажа"
+    },
+    {
+      "key": "profile.account_stats_button",
+      "text": "Статистика аккаунта"
+    },
+    {
+      "key": "profile.user_profile",
+      "text": "профиль"
+    },
+    {
+      "key": "profile.main_character",
+      "text": "Главный персонаж:"
+    },
+    {
+      "key": "profile.character_buff",
+      "text": "Усиление персонажа:"
+    },
+    {
+      "key": "profile.characters_obtained",
+      "text": "Персонажи получены:"
+    },
+    {
+      "key": "profile.current_item",
+      "text": "Экипированный предмет:"
+    },
+    {
+      "key": "pull.set_new_char_as_main",
+      "text": "Выбрать этого персонажа главным"
+    },
+    {
+      "key": "pull.overview_new_char_info",
+      "text": "Осмотреть персонажа"
+    },
+    {
+      "key": "pull.wish",
+      "text": "встречает персонажа.."
+    },
+    {
+      "key": "pull.cashback",
+      "text": "Твой кэшбэк за дубликаты:"
+    },
+    {
+      "key": "not_enough_currency",
+      "text": "Недостаточно ресурсов! Попробуй разные активности, такие как `!adventure`, `!daily`, и т.д чтобы получить ресурсы. (`!help` увидеть все команды)"
+    },
+    {
+      "key": "sacrifice.character_not_found",
+      "text": "Что-то я не нашла этого персонажа, попробуй написать второе имя или краткое имя, оно не обязательно должно быть полным и точным."
+    },
+    {
+      "key": "sacrifice.error",
+      "text": "Либо этого персонажа нельзя пожертвовать, либо его цена равна 0"
+    },
+    {
+      "key": "sacrifice.sacrificed",
+      "text": "жертвует"
+    },
+    {
+      "key": "setcharacter.not_found",
+      "text": "Что-то я не нашла этого персонажа, попробуй написать второе имя или краткое имя, оно не обязательно должно быть полным и точным."
+    },
+    {
+      "key": "setcharacter.already_equipped",
+      "text": "Этот персонаж уже является главным, погляди в `!akasha` или `!profile` чтобы увидеть информацию"
+    },
+    {
+      "key": "setcharacter.char_can_be_sacrificed",
+      "text": "Может быть пожертвован через `!sacrifice`"
+    },
+    {
+      "key": "setcharacter.no_main_character",
+      "text": "Отсутствует, используй `!set [name]` или `!pull`"
+    },
+    {
+      "key": "shop.welcome",
+      "text": "Добро пожаловать в ~~лавку завышеных цен~~ на распродажу!"
+    },
+    {
+      "key": "shop.description",
+      "text": "У Дори есть подарок для тебя и больше скидок по ссылке http://mentallystable4sure.dev внутри палаца 'Алказарзарай' который сделан на заказ Кавехом для нашего лаунчера."
+    },
+    {
+      "key": "shop.input_placeholder",
+      "text": "Дори достанет любой предмет на рынке"
+    },
+    {
+      "key": "shop.lot_unavaliable",
+      "text": "Лот на данный момент недоступен... Просим прощения за неудобства, попробуйте позже."
+    },
+    {
+      "key": "shop.lot_uid_needed",
+      "text": "Требуется привязка Genshin UID дабы знать куда отправлять подарки (Пример привязки: `!genshin 700000000` где цифры это твой UID)"
+    },
+    {
+      "key": "shop.lot_bought",
+      "text": "Лот успешно куплен, Дори сейчас его принесет прямо в твой рюкзак!"
+    },
+    {
+      "key": "shop.lot.100primogems",
+      "text": "Это отличное предложение, верь мне!"
+    },
+    {
+      "key": "shop.lot.crimson_witch_hat",
+      "text": "Ну а что еще нужно огненной ведьме?"
+    },
+    {
+      "key": "shop.lot.welkin_moon",
+      "text": "Дорого? В моем палаце всё дешевле!"
+    },
+    {
+      "key": "shop.lot.100pills",
+      "text": "Я люблю денежки! А денежки любят меня!"
+    },
+    {
+      "key": "shop.welkin_moon",
+      "text": "Благословение Полой Луны"
+    },
+    {
+      "key": "shop.crimson_witch_hat",
+      "text": "Шляпа Алой Ведьмы"
+    },
+    {
+      "key": "stats.top.by_pulls",
+      "text": "ТОП по молитвам"
+    },
+    {
+      "key": "stats.top.by_primos",
+      "text": "ТОП по примогемам"
+    },
+    {
+      "key": "stats.top.by_pills",
+      "text": "ТОП по таблеткам"
+    },
+    {
+      "key": "stats.times_pulled",
+      "text": "Молитв:"
+    },
+    {
+      "key": "stats.times_traveled",
+      "text": "Путешествий:"
+    },
+    {
+      "key": "stats.dailies_completed",
+      "text": "Ежедневок сделано:"
+    },
+    {
+      "key": "stats.total_primogems",
+      "text": "Примогемов получено/потрачено:"
+    },
+    {
+      "key": "stats.total_pills",
+      "text": "Таблеток получено/потрачено:"
+    },
+    {
+      "key": "localization.lang_changed",
+      "text": "Язык успешно изменён."
+    },
+    {
+      "key": "localization.lang_not_found",
+      "text": "Язык не найден или он уже установлен, глупышка, попробуй аббревиатуру: `!lang en` `!lang ua`"
+    },
+    {
+      "key": "character.1.name",
+      "text": "Электро Маг"
+    },
+    {
+      "key": "character.2.name",
+      "text": "Горо"
+    },
+    {
+      "key": "character.3.name",
+      "text": "Босайшус"
+    },
+    {
+      "key": "character.4.name",
+      "text": "Джехт"
+    },
+    {
+      "key": "character.5.name",
+      "text": "Меногиас"
+    },
+    {
+      "key": "character.6.name",
+      "text": "Индариас"
+    },
+    {
+      "key": "character.7.name",
+      "text": "Кандакия"
+    },
+    {
+      "key": "character.8.name",
+      "text": "Сяо"
+    },
+    {
+      "key": "character.9.name",
+      "text": "Бай Чжу"
+    },
+    {
+      "key": "character.10.name",
+      "text": "Итто"
+    },
+    {
+      "key": "character.11.name",
+      "text": "Неизвестная богиня"
+    },
+    {
+      "key": "character.12.name",
+      "text": "Бонанус"
+    },
+    {
+      "key": "character.13.name",
+      "text": "Синьора"
+    },
+    {
+      "key": "character.14.name",
+      "text": "Фурина"
+    },
+    {
+      "key": "character.15.name",
+      "text": "Ху Тао"
+    },
+    {
+      "key": "character.16.name",
+      "text": "Лайла"
+    },
+    {
+      "key": "character.17.name",
+      "text": "Янь Фэй"
+    },
+    {
+      "key": "character.18.name",
+      "text": "Чжун Ли"
+    },
+    {
+      "key": "character.19.name",
+      "text": "Шарлотта"
+    },
+    {
+      "key": "character.20.name",
+      "text": "Кли"
+    },
+    {
+      "key": "character.21.name",
+      "text": "Гань Юй"
+    },
+    {
+      "key": "character.1.perk_info",
+      "text": "Получает в 2 раза больше (x2) Моры со всех ресурсов (!adventure, !daily, !pull, и т.д.)"
+    },
+    {
+      "key": "character.2.perk_info",
+      "text": "Горо спешит на помощь! Чем больше персонажей в инвентаре тем больше времени сократится с !daily. Каждый персонаж в даёт 30 минут (Включая Горо, но лимит 75%). Кто тут хороший мальчик?"
+    },
+    {
+      "key": "character.3.perk_info",
+      "text": "[Fate] - Получает вдвое больше (x2) Моры со всех ресурсов (!adventure, !daily, !pull, и т.д.) но так же в 2 раза меньше примогемов."
+    },
+    {
+      "key": "character.4.perk_info",
+      "text": "Когда Джехт уходит в !adventure она всегда возвращается с добычей в 2 раза больше чем остальные Эремитки. (Применяемо ко всем валютам)"
+    },
+    {
+      "key": "character.5.perk_info",
+      "text": "[Fate and Balance] Ничто не бесконечно"
+    },
+    {
+      "key": "character.6.perk_info",
+      "text": "[Clarity] - Понижает !daily перезарядку на 12 часов"
+    },
+    {
+      "key": "character.7.perk_info",
+      "text": "Кандакия - опытная воительница и защитница своей деревни. Когда она путешествует в !adventure перезарядка будет опускаться на 10 минут за каждого персонажа в инвентаре (Лимит 75%))"
+    },
+    {
+      "key": "character.8.perk_info",
+      "text": "[Sacrifice] - Мора с !adventure будет конвертироваться в соотношении 1/2 в примогемы"
+    },
+    {
+      "key": "character.9.perk_info",
+      "text": "Понижает !adventure перезарядку на 1 час"
+    },
+    {
+      "key": "character.10.perk_info",
+      "text": "[The show begins!] Удваивает (x2) примогемы но половина Моры уходит к Куки Шинобу на поддержание клана и заглаживание конфликтов которые создает Итто"
+    },
+    {
+      "key": "character.11.perk_info",
+      "text": "[Your journey ends here!] Удваивает таблетки с !daily заданий"
+    },
+    {
+      "key": "character.12.perk_info",
+      "text": "[Sacrifice with Kindness] - Мора будет конвертирована в соотношении 1/1 в примогемы со ВСЕХ ресурсов (!adventure, !daily, !pull, и т.д.). Но это не отсрочит ужасную судьбу якши.."
+    },
+    {
+      "key": "character.13.perk_info",
+      "text": "[Crimson Witch] - Конвертирует примогемы в таблетки 💊 в соотношении 1/2, но сжигает всю Мору как только она попадает в руки ведьмы"
+    },
+    {
+      "key": "character.14.perk_info",
+      "text": "Когда Фурина выбрана главным персонажем каждый !sacrifice вы получаете помощь от Мелюзин в виде 160 Примогемов за каждого. Ви можете помочь Мелюзинам в !adventure или у !fishblasting вместе с Кли. [10k MAX]"
+    },
+    {
+      "key": "character.15.perk_info",
+      "text": "Ху Тао посещает потусторонний мир каждый раз при !sacrifice  та приводит нового покупателя к вам в команду, либо если повезет находит 3600 Примогемов с шансом 50%/50%"
+    },
+    {
+      "key": "character.16.perk_info",
+      "text": "Похоже Лайла уснула но ее лунатизм дарит вам 10 💊 каждый раз когда кто-то покидает команду через !sacrifice"
+    },
+    {
+      "key": "character.17.perk_info",
+      "text": "Янь Фэй подписала с вами контракт. Вона може уйти с команды с помощью !sacrifice но при этом обновит таймер получения Благословения Луны (-30 дней)."
+    },
+    {
+      "key": "character.18.perk_info",
+      "text": "[Пассивно] Чжун Ли забирает с вас 1000 Моры каждый раз когда кто-то покидает команду через !sacrifice [Даже если не выбран главным персонажем]"
+    },
+    {
+      "key": "character.19.perk_info",
+      "text": "Шарлотта фотографирует Мелюзин своей камерою утраивая (х3) награду с !adventures где были найдены Мелюзины."
+    },
+    {
+      "key": "character.20.perk_info",
+      "text": "Кли мастер в рыбалке! Каждый раз когда Кли идет рыбачить она приводить новых друзей!"
+    },
+    {
+      "key": "character.21.perk_info",
+      "text": "[Замороженный снаряд] Во время рыбалки есть 50% шанс что заморозит всю воду и получит редкие награды."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "EventType": 1,
+    "LastTimeTriggered": "2022-05-10T11:45:30.2000957Z",
+    "TimeBetweenTriggers": "1.00:00:00",
+    "ImageUrl": "https://raw.githubusercontent.com/limelight-mint/Eremite/main/content/events/daily.png",
+    "TimesTicked": 0,
+    "Award": {
+      "CurrenciesToAdd": {
+        "Mora": 660,
+        "Primogems": 360,
+        "Pills": 17
+      },
+      "CharactersToAdd": []
+    }
+  },
+  {
+    "EventType": 1,
+    "LastTimeTriggered": "2022-05-10T11:45:30.2001193Z",
+    "TimeBetweenTriggers": "1.00:00:00",
+    "ImageUrl": "https://raw.githubusercontent.com/limelight-mint/Eremite/main/content/events/daily.png",
+    "TimesTicked": 0,
+    "Award": {
+      "CurrenciesToAdd": {
+        "Mora": 400,
+        "Primogems": 280,
+        "Pills": 5
+      },
+      "CharactersToAdd": []
+    }
+  },
+  {
+    "EventType": 1,
+    "LastTimeTriggered": "2022-05-10T11:45:30.2000957Z",
+    "TimeBetweenTriggers": "1.00:00:00",
+    "ImageUrl": "https://raw.githubusercontent.com/limelight-mint/Eremite/main/content/events/daily.png",
+    "TimesTicked": 0,
+    "Award": {
+      "CurrenciesToAdd": {
+        "Mora": 760,
+        "Primogems": 360,
+        "Pills": 10
+      },
+      "CharactersToAdd": []
+    }
+  },
+  {
+    "EventType": 1,
+    "LastTimeTriggered": "2022-05-10T11:45:30.2000957Z",
+    "TimeBetweenTriggers": "0.00:30:00",
+    "ImageUrl": "https://raw.githubusercontent.com/limelight-mint/Eremite/main/content/events/raredaily.png",
+    "TimesTicked": 0,
+    "Award": {
+      "CurrenciesToAdd": {
+        "Mora": 69,
+        "Primogems": 69,
+        "Pills": 69
+      },
+      "CharactersToAdd": []
+    }
+  }
+]
